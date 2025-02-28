@@ -1,0 +1,20 @@
+{
+    "users": [
+      {
+        "email": "navaneethan.ramasamy@xxxx.com",
+        "env": "development",
+        "access": "admin"      
+      },
+      {
+        "email": "alexei.v@xxxx.com",
+        "env": "development",
+        "access": "admin"      
+      },
+      {
+        "email": "char-automations@xxxx-gpt.iam.gserviceaccount.com",
+        "env": "development",
+        "access": "admin",
+        "is_service_account": true     
+      }
+    ]
+  }

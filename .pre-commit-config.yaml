@@ -1,0 +1,6 @@
+repos:
+-   repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v0.910  # Replace with the version of mypy you want to use
+    hooks:
+    -   id: mypy
+        args: [--ignore-missing-imports]  # Add any additional mypy arguments here

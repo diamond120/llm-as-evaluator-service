@@ -1,0 +1,10 @@
+{
+  "eng_name": "public-engagement",
+  "eng_desc": "A sample engagement for demonstration purposes.",
+  "proj_name": "beta-test",
+  "proj_desc": "Beta testing of the api",
+  "user_name": "admin",
+  "user_email": "admintest@xxxx.com",
+  "role_name": "admin"
+}
+

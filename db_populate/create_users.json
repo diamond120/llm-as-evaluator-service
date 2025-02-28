@@ -1,0 +1,13 @@
+{
+    "users": [
+      {
+        "engagement_name": "public_engagement",
+        "project_names": ["beta-test"],
+        "roles": ["admin", "team"],
+        "name": "navaneethan",
+        "email": "navaneethan.ramasamty@xxxx.com"
+        
+      }
+    ]
+  }
+  
